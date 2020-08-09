@@ -1,2 +1,3 @@
 # tstcon
-ActiveX Testcontainer, based on VCSamples 
+
+ActiveX Testcontainer, based on VCSamples from <https://github.com/Microsoft/VCSamples/tree/master/VC2010Samples/MFC/ole/TstCo>. Ich you dont knwo what tstcon is, you probably wont need it. I missed it when I needed to migrate some realy old legacy project... but havent used it in the last. Tstscon was a tool from microsoft that was used to test ActiveX controls realy long ago. Read <https://devblogs.microsoft.com/cppblog/activex-test-container-application-is-still-available/> and <https://docs.microsoft.com/en-us/previous-versions/f9adb5t5(v=vs.100)?redirectedfrom=MSDN> for more details. This repo keeps the migrated source code and the built bins in place.
