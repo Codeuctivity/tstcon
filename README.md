@@ -18,7 +18,7 @@ This sample code is provided to illustrate a concept and should not be used in a
 
 ## History of this code
 
-ActiveX Testcontainer, is a copy of VCSamples from <https://github.com/Microsoft/VCSamples/tree/master/VC2010Samples/MFC/ole/TstCon>. If you dont know what tstcon is, you probably wont need it. I missed it when I needed to migrate/analyse some realy old legacy project... but havent used it in the last. Tstscon was a tool from microsoft that was used to test ActiveX controls realy long ago time ago.
+ActiveX Testcontainer, is a copy of VCSamples from <https://github.com/Microsoft/VCSamples/tree/master/VC2010Samples/MFC/ole/TstCon>. If you dont know what tstcon is, you probably wont need it. I missed it when I needed to migrate/analyse some realy old legacy project... but havent used it in the last. Tstscon was a tool from microsoft that was used to test ActiveX controls realy long time ago.
 
 Read <https://devblogs.microsoft.com/cppblog/activex-test-container-application-is-still-available/> and <https://docs.microsoft.com/en-us/previous-versions/f9adb5t5(v=vs.100)?redirectedfrom=MSDN> for more details.
 
